@@ -2,7 +2,7 @@
 
 <p align='center'>A developer from India learning every day.</p>
 
-<h2 align='center'>Tech Stack</h2>
+## Tech Stack
 
 <h3 align='center'>Some programming languages and frameworks I've used</h3>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
