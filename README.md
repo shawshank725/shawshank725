@@ -1,6 +1,7 @@
 <h1 align='center'>Hi there 👋 I'm Shashank</h1>
 
-<p align='center'>A developer from India learning every day.</p>
+<p align='center'>Hi! I'm a developer from India, learning every day. I've a very strong foundation in python and java and am currently focussing on spring boot.</p>
+<p align='center'>I'm also interested about game development, ethical hacking, app development and operating systems.</p>
 
 ## Tech Stack
 
