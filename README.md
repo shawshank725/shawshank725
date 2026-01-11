@@ -44,6 +44,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <h3>Build Tools</h3>
+
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
@@ -53,13 +54,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-
-My daily driver is ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<h3>My daily driver</h3>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashankVerma&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankVerma&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=ShashankVerma&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=ShashankVerma&style=for-the-badge)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShashankVerma&theme=tokyo-night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawshank725&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=shawshank725&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=shawshank725&style=for-the-badge)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shawshank725&theme=tokyo-night)
