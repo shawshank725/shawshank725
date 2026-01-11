@@ -1,7 +1,7 @@
 <h1 align='center'>Hi there 👋 I'm Shashank</h1>
 
-<p align='center'>Hi! I'm a developer from India, learning every day. I've a very strong foundation in python and java and am currently focusing on spring boot.</p>
-<p align='center'>I'm also interested about game development, ethical hacking, app development and operating systems.</p>
+<p align='center'>Hi! I'm a developer from India, learning every day. I've a very strong foundation in java and am currently focusing on spring boot.</p>
+<p align='center'>I'm also interested in game development and ethical hacking.</p>
 
 ## Tech Stack
 
@@ -13,6 +13,8 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Picocli](https://img.shields.io/badge/Picocli-2C2255?style=for-the-badge&logo=java&logoColor=white)
+![GraalVM](https://img.shields.io/badge/GraalVM-FE5E00?style=for-the-badge&logo=oracle&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -31,6 +33,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 <h3>IDEs and Code Editors</h3>
 
