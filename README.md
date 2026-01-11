@@ -59,7 +59,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashankVerma&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawshank725&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawshank725&layout=compact&theme=tokyonight)
 
