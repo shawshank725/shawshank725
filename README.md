@@ -55,12 +55,16 @@
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 <h3>My daily driver</h3>
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashankVerma&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawshank725&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=shawshank725&theme=tokyonight)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=shawshank725&style=for-the-badge)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shawshank725&theme=tokyo-night)
