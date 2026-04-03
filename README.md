@@ -1,4 +1,4 @@
-<h1 align='center'>Yo I'm Shashank</h1>
+<h1 align='center'>I'm Shashank</h1>
 
 <p align='center'>Strong foundation in java and spring boot.</p>
 <p align='center'>Interested in game development and ethical hacking.</p>
