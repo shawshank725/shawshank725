@@ -59,9 +59,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <div>
-  ![](https://raw.githubusercontent.com/shawshank725/github-stats/master/generated/overview.svg#gh-dark-mode-only)
   ![](https://raw.githubusercontent.com/shawshank725/github-stats/master/generated/overview.svg#gh-light-mode-only)
-  ![](https://raw.githubusercontent.com/shawshank725/github-stats/master/generated/languages.svg#gh-dark-mode-only)
   ![](https://raw.githubusercontent.com/shawshank725/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </div>
 
