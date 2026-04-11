@@ -60,8 +60,8 @@
 
 ## Stats
 
-![Overview](https://raw.githubusercontent.com/shawshank725/github-stats/master/generated/overview.svg)
-![Languages](https://raw.githubusercontent.com/shawshank725/github-stats/master/generated/languages.svg)
+![Stats](https://github-readme-stats.vercel.app/api?username=shawshank725&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawshank725&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shawshank725&theme=tokyonight)
 
