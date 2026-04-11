@@ -61,7 +61,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawshank725&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawshank725&layout=compact&theme=tokyonight)
+![](https://raw.githubusercontent.com/adxthya/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shawshank725&theme=tokyonight)
 
