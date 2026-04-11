@@ -58,10 +58,14 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawshank725&show_icons=true&theme=tokyonight)
-
+<div>
+  
+![](https://raw.githubusercontent.com/adxthya/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/adxthya/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/adxthya/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/adxthya/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+</div>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shawshank725&theme=tokyonight)
 
