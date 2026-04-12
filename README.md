@@ -78,9 +78,4 @@ I have a B.Tech in Computer Science. I primarily work with Java and Spring Boot.
   </tr>
 </table>
 
-## Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shawshank725&theme=tokyonight) 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawshank725&theme=tokyo-night" width="70%" />
-</p>
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shawshank725&show_icons=true&theme=merko)
