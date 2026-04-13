@@ -78,4 +78,20 @@ I have a B.Tech in Computer Science. I primarily work with Java and Spring Boot.
   </tr>
 </table>
 
+## Open Source Contributions
+<table>
+  <tr>
+    <th align="left">Repository</th>
+    <th align="left">Issue</th>
+    <th align="left">PR</th>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/JabRef/jabref">Jabref</a></td>
+    <td>Fixed CAYW dark theme CSS by implementing the CSS. Used Gluon's Scenic View for inspection.</td>
+    <td><a href="https://github.com/JabRef/jabref/pull/15508">Merged PR</a></td>
+  </tr>
+
+</table>
+
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shawshank725&show_icons=true&theme=merko)
