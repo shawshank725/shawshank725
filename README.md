@@ -46,6 +46,7 @@ I have a B.Tech in Computer Science. I primarily work with Java and Spring Boot.
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black"/>
       <img src="https://img.shields.io/badge/GraalVM-FE5E00?style=flat&logo=oracle&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
     </td>
   </tr>
 
@@ -95,3 +96,7 @@ I have a B.Tech in Computer Science. I primarily work with Java and Spring Boot.
 </table>
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shawshank725&show_icons=true&theme=merko)
+
+## Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shawshank725&theme=rogue)](https://github.com/shawshank725)
