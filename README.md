@@ -18,10 +18,16 @@ I have a B.Tech in Computer Science. I primarily work with Java and Spring Boot.
 ## Tech Stack
 <table>
   <tr>
-    <td><b>Languages & Frameworks</b></td>
+    <td><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>
       <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white"/>
@@ -96,7 +102,4 @@ I have a B.Tech in Computer Science. I primarily work with Java and Spring Boot.
 </table>
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shawshank725&show_icons=true&theme=merko)
-
-## Contribution Graph
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shawshank725&theme=rogue)](https://github.com/shawshank725)
